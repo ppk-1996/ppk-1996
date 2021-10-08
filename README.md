@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a frontend designer/developer from Burma.
 - 👀 I’m interested in coding and creating better user experince.
-- 🌱 I’m currently learning JavaScript and React.
+- 🌱 I’m currently learning NextJS.
 - 💞️ I’m looking to collaborate on anything UX or Frontend related projects.
 - 📫 React me at ppk1996kyaw@gmail.com
 
