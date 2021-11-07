@@ -1,4 +1,6 @@
-- 👋 Hi, I’m a frontend designer/developer from Burma.
+### Hi there, I'm Pyae Phyo Kyaw - aka [SUDOHEX](www.sudohex.com)👋 
+
+- 👋 I’m a frontend designer/developer from Burma.
 - 👀 I’m interested in coding and creating better user experince.
 - 🌱 I’m currently learning NextJS.
 - 💞️ I’m looking to collaborate on anything UX or Frontend related projects.
