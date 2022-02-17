@@ -1,7 +1,7 @@
-### Hi there, I'm Pyae Phyo Kyaw
+### Hi there, I'm Pyae Phyo Kyaw, a humble developer.
 
-* Published 10+ web design projects, 10+ iOS apps, and 10+ android apps in the past six months. 
-* Have 14 months of job experience and very comfortable with all the stages of the software development lifecycle. 
+* I have published 10+ web design projects, 10+ iOS apps, and 10+ android apps in the past six months. 
+* I also have 14 months of job experience and very comfortable with all the stages of the software development lifecycle. 
 * My main goal is to find a career where I can code with a great team creating great user experiences. 
 
 <!---
