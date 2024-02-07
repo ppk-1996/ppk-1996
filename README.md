@@ -1,10 +1,1 @@
-### Hi there, I'm Pyae Phyo Kyaw, a humble developer.
-* I graduated from University of Queensland with a Graduate Diploma in Computer Science at 2019.
-* I have 17 months of work experience as a software developer and am comfortable with all the stages of the software development lifecycle. 
-* My main goal is to find a career where I can code with a great team creating great user experiences. 
-* I'm currently looking for a career in software development while pursuing a Master of IT at Central Queensland University.
-
-<!---
-ppk-1996/ppk-1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As a Software Developer at LYRO Robotics, I apply my skills and knowledge in information technology, software development, and web design to create innovative solutions for robotics applications. I have a Master of Information Technology from CQUniversity and a Graduate Diploma in Computer Science from The University of Queensland, and I have been working in the software industry for over three years. I started as a Software Engineer at QSLogics, where I developed and tested software components for various projects. Then, I joined LYRO Robotics as a Full-Stack Web Developer, where I designed and implemented web interfaces and services for robotic systems. Now, I work as a Software Developer, where I collaborate with a team of engineers and researchers to develop and integrate software modules for robotic manipulation and vision. I am always eager to learn new technologies and methodologies, and to improve my competencies and performance. I value quality, innovation, and collaboration, and I strive to deliver solutions that meet the needs and expectations of our customers and partners.
